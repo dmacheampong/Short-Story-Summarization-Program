@@ -17,6 +17,8 @@ by Lap Yan Cheung and David Acheampong
 		
 		"python summarizer.py <input file name>"
 		
+	- Optional flags: "-debug": outputs tables to text file, "-simp": replaces words with more commmon synonyms, "-loc": system uses location table, "-lemma": system lemmatizes words going in the word frequency table.
+		
 ## Evaluation Program
 - This program takes a system generated summary, a reference (human generated) summary and the source text that the summaries are based on as inputs. It calculates the compression rate as a percentage between the system summary and source text, and ROUGE scores calculated base on word overlaps between the system summary and the sample summary.
 
