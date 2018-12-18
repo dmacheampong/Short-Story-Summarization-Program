@@ -1,0 +1,180 @@
+THERE was an old sow with three little pigs, and as she had not enough to keep them, she sent them out to seek their fortune.
+0.288
+
+The first that went off met a man with a bundle of straw, and said to him:
+
+'Please, man, give me that straw to build a house.'
+0.7007874015748031
+
+Which the man did, and the little pig built a house with it.
+2.2
+
+Presently came along a wolf, and knocked at the door, and said:
+
+'Little pig, little pig, let me come in.'
+2.339622641509434
+
+To which the pig answered:
+
+'No, no, by the hair of my chiny chin chin.'
+1.2777777777777777
+
+The wolf then answered to that:
+
+'Then I'll huff, and I'll puff, and I'll blow your house in.'
+0.6595744680851063
+
+So he huffed, and he puffed, and he blew his house in, and ate up the little pig.
+1.5802469135802468
+
+The second little pig met a man with a bundle of furze and said:
+
+'Please, man, give me that furze to build a house.'
+1.5555555555555556
+
+Which the man did, and the pig built his house.
+2.276595744680851
+
+Then along came the wolf, and said:
+
+'Little pig, little pig, let me come in.'
+3.128205128205128
+
+'No, no, by the hair of my chiny chin chin.'
+0.41838842975206614
+
+"Then I'll huff, and I'll puff, and I'll blow your house in.'
+0.39344262295081966
+
+So he huffed, and he puffed, and he puffed, and he huffed, and at last he blew the house down, and he ate up the little pig.
+1.1370967741935485
+
+The third little pig met a man with a load of bricks, and said:
+
+'Please, man, give me those bricks to build a house with.'
+1.4878048780487805
+
+So the man gave him the bricks, and he built his house with them.
+0.6
+
+So the wolf came, as he did to the other little pigs, and said:
+
+'Little pig, little pig, let me come in.'
+2.518867924528302
+
+'Then I'll huff, and I'll puff, and I'll blow your house in.'
+0.39344262295081966
+
+Well, he huffed, and he puffed, and he huffed and he puffed, and he puffed and huffed; but he could not get the house down.
+0.4959349593495935
+
+When he found that he could not, with all his huffing and puffing, blow the house down, he said:
+
+'Little pig, I know where there is a nice field of turnips.'
+0.7848101265822784
+
+'Where?'
+0.0
+
+said the little pig.
+5.8
+
+'Oh, in Mr Smith's Home-field, and if you will be ready tomorrow morning I will call for you, and we will go together, and get some for dinner.'
+0.18055555555555555
+
+'Very well,' said the little pig, 'I will be ready.
+2.372549019607843
+
+What time do you mean to go?'
+0.3103448275862069
+
+'Oh, at six o'clock.'
+0.09523809523809523
+
+Well, the little pig got up at five, and got the turnips before the wolf came (which he did about six), who said:
+
+'Little pig, are you ready?'
+1.7972027972027973
+
+The little pig said: 'Ready!
+4.142857142857143
+
+I have been and come back again, and got a nice potful for dinner.'
+0.29850746268656714
+
+The wolf felt very angry at this, but thought that he would be up to the little pig somehow or other, so he said:
+
+'Little pig, I know where there is a nice apple tree.'
+1.4437869822485208
+
+said the pig.
+7.0
+
+'Down at Merry-garden,' replied the wolf, 'and if you will not deceive me I will come for you at five o'clock tomorrow.
+0.3949579831932773
+
+and get some apples.'
+0.38095238095238093
+
+Well, the little pig bustled up the next morning at four o'clock, and went off for the apples, hoping to get back before the wolf came; but he had further to go, and had to climb the tree, so that just as he was coming down from it, he saw the wolf coming, which, as you may suppose, frightened him very much.
+0.7443365695792881
+
+When the wolf came up he said:
+
+'Little pig, what!
+2.7
+
+are you here before me?
+0.0
+
+Are they nice apples?'
+0.3181818181818182
+
+'Yes, very,' said the little pig.
+3.515151515151515
+
+'I will throw you down one.'
+0.07142857142857142
+
+And he threw it so far, that, while the wolf was gone to pick it up, the little pig jumped down and ran home.
+1.311926605504587
+
+The next day the wolf came again, and said to the little pig:
+
+'Little pig, there is a fair at Shanklin this afternoon, will you go?'
+1.8571428571428572
+
+'Oh yes,' said the pig, 'I will go; what time shall you be ready?'
+1.5909090909090908
+
+'At three,' said the wolf.
+2.1923076923076925
+
+So the little pig went off before the time as usual, and got to the fair, and bought a butter-churn, which he was going home with, when he saw the wolf coming.
+1.0440251572327044
+
+Then he could not tell what to do.
+0.11764705882352941
+
+So he got into the churn to hide, and by so doing turned it round, and it rolled down the hill with the pig in it, which frightened the wolf so much, that he ran home without going to the fair.
+0.7409326424870466
+
+He went to the little pig's house, and told him how frightened he had been by a great round thing which came down the hill past him.
+1.0303030303030303
+
+Then the little pig said:
+
+'Hah, I frightened you, then.
+2.142857142857143
+
+I had been to the fair and bought a butter-churn, and when I saw you, I got into it, and rolled down the hill.'
+0.1891891891891892
+
+Then the wolf was very angry indeed, and declared he would eat up the little pig, and that he would get down the chimney after him.
+1.1908396946564885
+
+When the little pig saw what he was about, he hung on the pot full of water, and made up a blazing fire, and, just as the wolf was coming down, took off the cover, and in fell the wolf; so the little pig put on the cover again in an instant, boiled him up, and ate him for supper, and lived happy ever afterwards.
+0.952076677316294
+
+
+Average Sentence Score: 1.4032472305904873
